@@ -85,7 +85,6 @@ The detailed thought process of forming this project is documented at this [Medi
 - Agentic Workflow — Human-Agent Interactions
 - Agentic Applications — Dev Tools
 - Agentic Applications — Content Creation (AIGC)
-- Agentic Applications — Business and Finance
 - Agentic Applications — Social Network
 - Agentic Applications — Education
 - Production Operations — LLMOps
