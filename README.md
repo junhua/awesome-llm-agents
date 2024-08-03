@@ -77,13 +77,13 @@ The detailed thought process of forming this project is documented at this [Medi
 - translation-agent by Andrew Ng ([GitHub](https://github.com/andrewyng/translation-agent))
   
 ## TODO:
-Agentic Workflow — Human-Agent Interactions
-Agentic Applications — Dev Tools
-Agentic Applications — Content Creation (AIGC)
-Agentic Applications — Business and Finance
-Agentic Applications — Social Network
-Agentic Applications — Education
-Production Operations — LLMOps
-Production Operations — AI Cloud
-Production Operations — Monitoring
+- Agentic Workflow — Human-Agent Interactions
+- Agentic Applications — Dev Tools
+- Agentic Applications — Content Creation (AIGC)
+- Agentic Applications — Business and Finance
+- Agentic Applications — Social Network
+- Agentic Applications — Education
+- Production Operations — LLMOps
+- Production Operations — AI Cloud
+- Production Operations — Monitoring
 
