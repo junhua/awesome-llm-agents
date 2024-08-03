@@ -92,3 +92,17 @@ The detailed thought process of forming this project is documented at this [Medi
 - Production Operations — AI Cloud
 - Production Operations — Monitoring
 
+## Citation
+
+Please cite the repo if you refer to the content of the this repository for your work.
+
+```
+@misc{awesome-llm-agents-jl,
+  author = {Junhua Liu},
+  title = {Awesome-LLM-Agents: recent trends and advancement in Agentic AI},
+  year = {2024},
+  publisher = {Medium},
+  journal = {AI Advances},
+  howpublished = {\url{https://github.com/junhua/awesome-llm-agents}},
+}
+```
