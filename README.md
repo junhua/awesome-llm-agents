@@ -1,6 +1,6 @@
 # awesome-llm-agents
 This Awesome-LLM-Agents contains A hand-picked and carefully categorised reading list. Furthermore, I will conduct review on each paper and project, and (hopefully) put them in anto a survey paper.
-The detailed thought process of forming this project is documented at this [Medium Post](https://ai.gopubby.com/awesome-llm-agents-recent-trends-and-advancement-in-agentic-ai-90bac6249060). It's put behind a paywall to prevent the evil LLMs' crawling.
+The detailed thought process of forming this project is documented at this [Medium Post](https://ai.gopubby.com/awesome-llm-agents-recent-trends-and-advancement-in-agentic-ai-90bac6249060). It's put behind a paywall to prevent the evil LLMs' crawling. [The full category breakdown](https://github.com/junhua/awesome-llm-agents/blob/main/Categories.md).
 
 ## LLM Core — Foundation Models
 - Scaling laws for neural language models (OpenAI, 2020, [arXiv](https://arxiv.org/pdf/2001.08361))
