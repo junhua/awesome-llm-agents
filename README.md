@@ -32,12 +32,13 @@ The detailed thought process of forming this project is documented at this [Medi
 - A Survey on LoRA of Large Language Models (ZJU, Jul 2024, [arXiv](https://arxiv.org/pdf/2407.11046))
 - Distilling System 2 into System 1 (Meta, Jul 2024, [arXiv](https://arxiv.org/pdf/2407.06023))
 
-## LLM Core — Alignments
+## LLM Core — Alignments and Safety
 - A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More (Salesforce, Jul 2024, [arXiv](https://arxiv.org/pdf/2407.16216))
 - Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study (Tsinghua, Apr 2024, [arXiv](https://arxiv.org/pdf/2404.10719))
 - PERL: Parameter Efficient Reinforcement Learning from Human Feedback (Google, Mar 2024, [arXiv](https://arxiv.org/pdf/2403.10704))
 - RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (Google, Dec 2023, [arXiv](https://arxiv.org/pdf/2309.00267))
 - Training language models to follow instructions with human feedback (OpenAI, Mar 2022, [arXiv](https://arxiv.org/pdf/2203.02155))
+- Rule Based Rewards for Language Model Safety (OpenAI, Jul 2024, [Preprint](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf))
 
 ## LLM Core — Datasets, benchmarks, Metrics
 - GAIA: a benchmark for general AI assistants (Meta, Nov 2023, [ICLR](https://arxiv.org/pdf/2311.12983))
