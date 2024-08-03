@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Liu"
+  given-names: "Junhua"
+  orcid: "https://orcid.org/0000-0003-4477-7439"
+title: "Awesome-LLM-Agents: Recent Trends and Advancement in Agentic AI"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-08-03
+url: "https://github.com/junhua/awesome-llm-agents"
