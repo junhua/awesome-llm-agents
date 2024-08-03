@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/c32b1f99-e434-473b-8916-59cb5d6e8bab)
-
 # Awesome-LLM-Agents: Recent Trends and Advancement in Agentic AI
+![image](https://github.com/user-attachments/assets/c32b1f99-e434-473b-8916-59cb5d6e8bab)
 This Awesome-LLM-Agents contains A hand-picked and carefully categorised reading list. Furthermore, I will conduct review on each paper and project, and (hopefully) put them in anto a survey paper.
 The detailed thought process of forming this project is documented at this [Medium Post](https://ai.gopubby.com/awesome-llm-agents-recent-trends-and-advancement-in-agentic-ai-90bac6249060). It's put behind a paywall to prevent the evil LLMs' crawling. [The full category breakdown](https://github.com/junhua/awesome-llm-agents/blob/main/Categories.md).
 
