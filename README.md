@@ -80,7 +80,7 @@ The detailed thought process of forming this project is documented at this [Medi
 - LangGraph ([GitHub](https://github.com/langchain-ai/langgraph))
 - AutoGen by Microsoft ([GitHub](https://github.com/microsoft/autogen), [Paper](https://arxiv.org/pdf/2308.08155))
 - AgentScope by Alibaba Group([GitHub](https://github.com/modelscope/agentscope), [System Paper](https://arxiv.org/pdf/2402.14034), [Projects paper](https://arxiv.org/pdf/2407.17789))
-- translation-agent by Andrew Ng ([GitHub](https://github.com/andrewyng/translation-agent))
+- Translation-agent by Andrew Ng ([GitHub](https://github.com/andrewyng/translation-agent))
   
 ## TODO:
 - Agentic Workflow — Human-Agent Interactions
