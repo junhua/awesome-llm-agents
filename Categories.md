@@ -3,7 +3,7 @@
 2. Prompt Engineering
 3. Retrieval-Augmented Generation
 4. Finetuning
-5. Alignments
+5. Alignments and Safety
 6. Datasets, benchmarks, Metrics
 ## Agent Core
 1. Planning / Reasoning
