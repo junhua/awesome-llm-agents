@@ -17,8 +17,9 @@
 2. Simulation
 3. Content Creation (AIGC)
 4. Social Network
-5. Business and Finance
-6. Education
+5. Business
+6. Finance
+7. Education
 ## Production Operations
 1. LLMOps
 2. Al Cloud
