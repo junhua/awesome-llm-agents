@@ -41,8 +41,13 @@ The detailed thought process of forming this project is documented at this [Medi
 - PERL: Parameter Efficient Reinforcement Learning from Human Feedback (Google, Mar 2024, [arXiv](https://arxiv.org/pdf/2403.10704))
 - RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (Google, Dec 2023, [arXiv](https://arxiv.org/pdf/2309.00267))
 - Training language models to follow instructions with human feedback (OpenAI, Mar 2022, [arXiv](https://arxiv.org/pdf/2203.02155))
-- Constitutional AI: Harmlessness from AI Feedback (Anthropic, Dec 2022, [arXiv](https://arxiv.org/pdf/2212.08073)) 🥇
-- Self-instruct: Aligning language models with self-generated instructions (Allen AI, May 2023, [ACL](https://arxiv.org/pdf/2212.10560)) 🥇
+- Constitutional AI: Harmlessness from AI Feedback (Anthropic, Dec 2022, [arXiv](https://arxiv.org/pdf/2212.08073)) ⭐
+- Self-instruct: Aligning language models with self-generated instructions (Allen AI, May 2023, [ACL](https://arxiv.org/pdf/2212.10560)) ⭐
+- Direct preference optimization: Your language model is secretly a reward model (Stanford, 2023, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf))⭐
+- ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback (Tsinghua, UIUC, Tencent, RUC etc., 2024, [ICML](https://openreview.net/pdf?id=BOorDpKHiJ)) ⭐
+- Camels in a changing climate: Enhancing lm adaptation with tulu 2 (Allen AI & UW, Nov 2023, [arXiv](https://arxiv.org/pdf/2311.10702))
+- Steerlm: Attribute conditioned sft as an (user-steerable) alternative to rlhf (Nvidia, Oct 2023, [arXiv](https://arxiv.org/pdf/2310.05344))
+- 
 
 
 ## LLM Core — Datasets, benchmarks, Metrics
@@ -50,6 +55,8 @@ The detailed thought process of forming this project is documented at this [Medi
 - Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators (Stanford, Apr 2024, [arXiv](https://arxiv.org/pdf/2404.04475))
 - Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (UCB, UCSD, CMU & Stanford, Dec 2023, [NeurIPS](https://arxiv.org/pdf/2306.05685))
 - FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets (KAIST, Apr 2024, [ICLR](https://arxiv.org/pdf/2307.10928))
+- Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (UCB, Stanford & UCSD, Mar 2024, [arXiv](https://arxiv.org/pdf/2403.04132))
+- Starling-7B: Improving LLM Helpfulness & Harmlessness with RLAIF (UCB, 2023, [HF](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha))
 
 ## Agent Core — Planning / Reasoning Describe
 - Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents (PKU, 2024, [NIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/6b8dfb8c0c12e6fafc6c256cb08a5ca7-Paper-Conference.pdf))
