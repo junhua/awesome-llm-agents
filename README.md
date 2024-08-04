@@ -57,6 +57,7 @@ The detailed thought process of forming this project is documented at this [Medi
 - FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets (KAIST, Apr 2024, [ICLR](https://arxiv.org/pdf/2307.10928))
 - Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (UCB, Stanford & UCSD, Mar 2024, [arXiv](https://arxiv.org/pdf/2403.04132))
 - Starling-7B: Improving LLM Helpfulness & Harmlessness with RLAIF (UCB, 2023, [HF](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha))
+- Lmsys-chat-1m: A large-scale real-world llm conversation dataset (UCB, UCSD, CMU & Stanford, Mar 2024, [ICLR](https://arxiv.org/pdf/2309.11998))
 
 ## Agent Core — Planning / Reasoning Describe
 - Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents (PKU, 2024, [NIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/6b8dfb8c0c12e6fafc6c256cb08a5ca7-Paper-Conference.pdf))
