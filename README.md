@@ -114,8 +114,9 @@ Please cite the repo if you refer to the content of the this repository for your
   author = {Junhua Liu},
   title = {Awesome-LLM-Agents: recent trends and advancement in Agentic AI},
   year = {2024},
+  month = {August},
   publisher = {Medium},
   journal = {AI Advances},
-  howpublished = {\url{https://github.com/junhua/awesome-llm-agents}},
+  url = {https://medium.com/junhua/awesome-llm-agents-recent-trends-and-advancement-in-agentic-ai-90bac6249060},
 }
 ```
