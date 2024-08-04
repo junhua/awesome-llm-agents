@@ -30,6 +30,7 @@ The detailed thought process of forming this project is documented at this [Medi
 
 ## LLM Core — Finetuning
 - Lora: Low-rank adaptation of large language models (Microsoft & CMU, Oct 2021, [arXiv](https://arxiv.org/pdf/2106.09685))
+- QLoRA: Efficient Finetuning of Quantized LLMs (UW, 2023, [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf))
 - A Survey on LoRA of Large Language Models (ZJU, Jul 2024, [arXiv](https://arxiv.org/pdf/2407.11046))
 - Distilling System 2 into System 1 (Meta, Jul 2024, [arXiv](https://arxiv.org/pdf/2407.06023))
 
