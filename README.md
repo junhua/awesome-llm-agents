@@ -39,6 +39,7 @@ The detailed thought process of forming this project is documented at this [Medi
 - PERL: Parameter Efficient Reinforcement Learning from Human Feedback (Google, Mar 2024, [arXiv](https://arxiv.org/pdf/2403.10704))
 - RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (Google, Dec 2023, [arXiv](https://arxiv.org/pdf/2309.00267))
 - Training language models to follow instructions with human feedback (OpenAI, Mar 2022, [arXiv](https://arxiv.org/pdf/2203.02155))
+- Constitutional AI: Harmlessness from AI Feedback (Anthropic, Dec 2022, [arXiv](https://arxiv.org/pdf/2212.08073)) 🥇 
 - Rule Based Rewards for Language Model Safety (OpenAI, Jul 2024, [Preprint](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf))
 
 ## LLM Core — Datasets, benchmarks, Metrics
