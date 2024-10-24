@@ -86,9 +86,7 @@ The detailed thought process of forming this project is documented at this [Medi
 - VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft (ZJU, Jun 2024, [arXiv](https://arxiv.org/pdf/2406.05720))
 
 ## Agentic Applications — Finance
-- Learning to Generate Explainable Stock Predictions usingSelf-Reflective Large Language Models (NUS, 2024, [WWW](https://dl.acm.org/doi/pdf/10.1145/3589334.3645611))
-- When Al Meets Finance (StockAgent): Large LanguageModel-based Stock Trading in Simulated Real-worldEnvironments (2024, [TIST](https://arxiv.org/pdf/2407.18957))
-- StockFormer: Learning Hybrid Trading Machines with Predictive Coding (SJTU, 2023, [IJCAI](https://www.ijcai.org/proceedings/2023/0530.pdf))
+- Complete list: [Awesome-Finance-AI-Papers](https://github.com/junhua/awesome-finance-ai-papers)
 
 ## Multi-agent frameworks
 - LangGraph ([GitHub](https://github.com/langchain-ai/langgraph))
