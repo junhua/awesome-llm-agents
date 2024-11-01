@@ -116,6 +116,7 @@ Please cite the repo if you refer to the content of the this repository for your
   month = {August},
   publisher = {Medium},
   journal = {AI Advances},
+  doi = {10.5281/zenodo.14021180},
   url = {https://medium.com/junhua/awesome-llm-agents-recent-trends-and-advancement-in-agentic-ai-90bac6249060},
 }
 ```
